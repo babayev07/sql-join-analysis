@@ -16,6 +16,3 @@ This project demonstrates how to analyze data using multiple related tables.
 
 ## Tools
 - SQL
-
-## Goal
-To demonstrate ability to work with relational data and perform JOIN operations.
